@@ -1,0 +1,2 @@
+laser_scan_topic:"/scan"
+queue_size:1000
